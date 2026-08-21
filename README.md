@@ -8,8 +8,6 @@
 > Writing about technical notes, engineering insights, documentation, and personal reflections.
 ```
 
-### 🌐 Connect with Me
-
 <a href="https://www.linkedin.com/in/paola13ulep"><kbd>LinkedIn</kbd></a>
 <a href="https://christinepaolaulep.vercel.app/index.html"><kbd>Portfolio</kbd></a>
 <a href="mailto:paola13ulep@gmail.com"><kbd>Email</kbd></a>
