@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**paola13ulep/paola13ulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>🟢 ACTIVE</sub>
 
-Here are some ideas to get you started:
+# Hi, Welcome to my GitHub Page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**System Engineer • Computer Engineering Graduate**
+
+Servers • Storage • Networking • Cloud • System Administration
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat-square\&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square\&logo=gmail)](mailto:YOUR_EMAIL)
+
+</div>
