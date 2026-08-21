@@ -15,4 +15,4 @@
 <a href="https://github.com/paola13ulep"><kbd>GitHub</kbd></a>
 <a href="https://www.youtube.com/@christinepaolau"><kbd>YouTube</kbd></a>
 
-<kbd>Views <img src="https://komarev.com/ghpvc/?username=paola13ulep&style=flat&color=transparent&label=" alt="views"></kbd>
+<kbd>VISITS: <img src="https://komarev.com/ghpvc/?username=paola13ulep&style=flat&color=000000&label=" alt="views"></kbd>
