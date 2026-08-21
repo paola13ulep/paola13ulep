@@ -1,19 +1,13 @@
 # Hi there! 👋
 
-> Bachelor of Science in Computer Engineering Graduate - Major in System and Network Administration
+> Computer Engineering graduate, majoring in System and Network Administration.
 
-> Currently working as System Engineer. I work with servers and storage by installing, configuring, and deploying solutions for clients’ IT projects.
+> Currently working as a System Engineer, focusing on servers, storage, and IT infrastructure.
 
-> Building projects and experimenting with technology, and continuously learning along the way.
+> Building projects, experimenting with technology, and continuously learning.
 
-> I write about technical notes, personal reflections, engineering insights, documentation, and continuous learning.
-
+> Writing about technical notes, engineering insights, documentation, and personal reflections.
 
 ### 🌐 Connect with Me
 
-You can find me on these platforms or reach me through email:
-
-* 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-* 📧 [Email](mailto:YOUR_EMAIL)
-* 💻 [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL) · [GitHub](https://github.com/YOUR_USERNAME)
