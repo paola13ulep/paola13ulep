@@ -1,4 +1,6 @@
-![views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=000000&label=)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=000000&label=" />
+</p>
 
 # Hi there!
 
