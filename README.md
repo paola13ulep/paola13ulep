@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=paola13ulep&color=000000&style=flat-square&label=PROFILE+VIEWS)
+![views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=000000&label=)
 
 # Hi there!
 
