@@ -1,3 +1,5 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=paola13ulep&color=000000&style=flat-square&label=PROFILE+VIEWS)](https://github.com/paola13ulep)
+
 # Hi there!
 
 ```text id="1r9p5v"
