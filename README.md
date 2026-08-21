@@ -1,6 +1,5 @@
-<p align="left"><sub>◉ <img src="https://komarev.com/ghpvc/?username=paola13ulep&style=flat&color=000000&label=" alt="views"></sub>
-  
-# Hi there!
+
+  # Hi there!
 
 ```text id="1r9p5v"
 > Currently working as a System Engineer, focusing on servers, storage, and IT infrastructure.
@@ -15,3 +14,5 @@
 <a href="mailto:paola13ulep@gmail.com"><kbd>Email</kbd></a>
 <a href="https://github.com/paola13ulep"><kbd>GitHub</kbd></a>
 <a href="https://www.youtube.com/@christinepaolau"><kbd>YouTube</kbd></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=paola13ulep&color=000000&style=flat-square&label=PROFILE+VIEWS)
