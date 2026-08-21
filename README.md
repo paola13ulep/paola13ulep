@@ -1,3 +1,4 @@
+<kbd><img src="https://komarev.com/ghpvc/?username=paola13ulep&style=flat-square&color=30363d&label=" alt="Profile views"></kbd>
 
   # Hi there!
 
@@ -14,5 +15,3 @@
 <a href="mailto:paola13ulep@gmail.com"><kbd>Email</kbd></a>
 <a href="https://github.com/paola13ulep"><kbd>GitHub</kbd></a>
 <a href="https://www.youtube.com/@christinepaolau"><kbd>YouTube</kbd></a>
-
-<kbd><img src="https://komarev.com/ghpvc/?username=paola13ulep&style=flat-square&color=eeeeee&label=" alt="Profile views"></kbd>
