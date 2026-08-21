@@ -3,11 +3,10 @@
 
 # Hi, Welcome to my GitHub Page!
 
-**Computer Engineer**
+**Computer Engineer and System Engineer**
 
-Servers • Storage • Networking • Cloud • System Administration
+I work with servers and storage by installing, configuring, and deploying solutions for clients’ IT projects.
 
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat-square\&logo=vercel)](YOUR_PORTFOLIO_URL)
