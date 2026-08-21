@@ -1,26 +1,11 @@
-# `>_` Hi, Welcome to my GitHub Page!
+# Hi there!
 
-🟢 `ACTIVE`
+> Bachelor of Science in Computer Engineering Graduate - Major in System and Network Administration
+> Currently working as System Engineer. I work with servers and storage by installing, configuring, and deploying solutions for clients’ IT projects.
+> Building projects and experimenting with technology, and continuously learning along the way.
+> I write about technical notes, personal reflections, engineering insights, documentation, and continuous learning.
 
-I’m a **System Engineer** and **Computer Engineering graduate** focused on servers, storage, networking, cloud infrastructure, and system administration.
-
-I enjoy working with technology, building practical solutions, exploring new systems, and continuously learning along the way.
-
-### `>_` About Me 🖥️
-
-* 💻 System Engineer
-* 🖧 Servers • Storage • Networking
-* ☁️ Cloud & Virtualization
-* 🔐 Systems & Cybersecurity
-* 🛠️ Building projects and experimenting with technology
-
-### `>_` Writing ✍️
-
-I write about technology, systems, projects, and things I learn along the way.
-
-You can explore my technical notes, experiences, and other writings on my **portfolio**.
-
-### `>_` Social 🌐
+### Social 🌐
 
 You can find me on the following platforms or reach me through email:
 
