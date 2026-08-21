@@ -10,8 +10,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=161b22)](https://www.linkedin.com/in/paola13ulep)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logoColor=ffffff&labelColor=161b22)](https://christinepaolaulep.vercel.app/index.html)
-[![Email](https://img.shields.io/badge/Email-ffffff?style=flat-square&logoColor=ffffff&labelColor=161b22)](mailto:paola13ulep@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/paola13ulep)
-[![YouTube](https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=ffffff&labelColor=161b22)](https://www.youtube.com/@christinepaolau)
+<a href="https://www.linkedin.com/in/paola13ulep"><kbd>LinkedIn</kbd></a>
+<a href="https://christinepaolaulep.vercel.app/index.html"><kbd>Portfolio</kbd></a>
+<a href="mailto:paola13ulep@gmail.com"><kbd>Email</kbd></a>
+<a href="https://github.com/paola13ulep"><kbd>GitHub</kbd></a>
+<a href="https://www.youtube.com/@christinepaolau"><kbd>YouTube</kbd></a>
